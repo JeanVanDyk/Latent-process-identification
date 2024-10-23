@@ -1,3 +1,10 @@
+
+<h1 align="center">
+  <br>
+  Latent process identification
+  <br>
+</h1>
+
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
