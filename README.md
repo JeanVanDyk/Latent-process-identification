@@ -14,7 +14,8 @@
 
 * Pytorch
 * Lightning
-* matplotlib
+* Matplotlib
+* Numpy
 
 ## Datasets
 
