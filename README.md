@@ -19,4 +19,5 @@
 
 ## Datasets
 
-This code was made to be used on amass datasets, on the format SMPLX. You'll have to dowload the datasets, update the relative links, convert them to .pt files using download_amass_data and only then, the data dowloaded could be used for DAE's training.
+* This code was made to be used on amass datasets, on the format SMPLX. You'll have to dowload the datasets, update the relative links, convert them to .pt files using download_amass_data and only then, the data dowloaded could be used for DAE's training.
+* You'll also have to download smplx body model and put it in the smplx folder.
