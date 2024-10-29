@@ -7,7 +7,7 @@
 
 ## Source
 
-The model was originally made according to El Esaway, 2015, Estimation of daily bicycle traffic volumes using sparse data. Then it was modified by using convolution layer which suited better our dataset (detecting spatial dependencies, reducing dimensions etc).
+The model was originally made according to El Esaway, 2015, Estimation of daily bicycle traffic volumes using sparse data. Then it was modified by adding convolution layer inside our Encoder/Decoder, which suited better our dataset (detecting spatial dependencies, reducing dimensions etc), and by using more advanced recurrent network (GRU/LSTM instead of RNN).
 
 ## Key Features
 
