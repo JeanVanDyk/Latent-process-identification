@@ -5,6 +5,10 @@
   <br>
 </h1>
 
+## Source
+
+The model was originally made according to El Esaway, 2015, Estimation of daily bicycle traffic volumes using sparse data. Then it was modified by using convolution layer which suited better our dataset (detecting spatial dependencies, reducing dimensions etc).
+
 ## Key Features
 
 * Save automatically .npz from amass into .pt files that can be loaded and directly used by the denoising auto encoder.
